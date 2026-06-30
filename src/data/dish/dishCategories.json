@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Food",
+		"description": "",
+		"parent": "",
+		"slug": "food"
+	},
+	{
+		"name": "Drinks",
+		"description": "",
+		"parent": "",
+		"slug": "drinks"
+	},
+	{
+		"name": "Breakfasts",
+		"description": "Morning dishes with comforting flavors, balanced portions, and fresh cafe-style sides.",
+		"parent": "food",
+		"slug": "breakfasts"
+	},
+	{
+		"name": "Coffee",
+		"description": "Classic espresso drinks prepared for a clean flavor, silky milk texture, and easy pairing with breakfast.",
+		"parent": "drinks",
+		"slug": "coffee"
+	}
+]
