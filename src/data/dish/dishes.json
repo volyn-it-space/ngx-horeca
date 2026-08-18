@@ -1,0 +1,46 @@
+[
+	{
+		"slug": "homemade-syrnyky-with-sour-cream",
+		"categorySlug": "breakfasts",
+		"image": "/dish/homemade-syrnyky-with-sour-cream.webp",
+		"name": "Homemade syrnyky with sour cream",
+		"description": "Golden cottage cheese pancakes served warm with sour cream.",
+		"price": 101,
+		"labels": [
+			"Breakfast",
+			"200 g"
+		],
+		"fullDescription": "Tender homemade syrnyky with a delicate cheese texture, pan-fried until golden and served with sour cream. A traditional sweet breakfast with a comforting homemade feel.",
+		"suggested": [
+			"cappuccino"
+		],
+		"cookTimeMinutes": 12,
+		"caloriesKcal": 301,
+		"portion": "200 g",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "cappuccino",
+		"categorySlug": "coffee",
+		"image": "/dish/cappuccino.webp",
+		"name": "Cappuccino",
+		"description": "Espresso with steamed milk and a smooth layer of foam.",
+		"price": 61,
+		"labels": [
+			"Coffee",
+			"250 ml"
+		],
+		"fullDescription": "A balanced cappuccino built on fresh espresso, steamed milk, and fine foam. Served hot with enough body to pair naturally with breakfast or dessert.",
+		"suggested": [
+			"homemade-syrnyky-with-sour-cream"
+		],
+		"cookTimeMinutes": 4,
+		"caloriesKcal": 91,
+		"portion": "250 ml",
+		"allergens": [
+			"milk"
+		]
+	}
+]

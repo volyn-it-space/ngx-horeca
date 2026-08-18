@@ -1,0 +1,145 @@
+{
+	"_id": "demo",
+	"name": "Horeca",
+	"lang": "uk",
+	"locale": "uk_UA",
+	"siteUrl": "https://horeca.itkamianets.com",
+	"logo": "/logo.webp",
+	"phone": "+38 097 000 00 00",
+	"email": "hello@horeca.itkamianets.com",
+	"address": "London, United Kingdom",
+	"currency": {
+		"code": "UAH",
+		"icon": "₴"
+	},
+	"defaultSeo": {
+		"title": "Horeca | website template for restaurants, cafes, hotels, and delivery",
+		"description": "Horeca is a ready website template for restaurants, cafes, hotels, bars, food delivery, and catering. Present menus, photos, contacts, reservations, events, offers, and social channels on a fast SEO-friendly website.",
+		"keywords": [
+			"Horeca",
+			"restaurant",
+			"cafe",
+			"hotel",
+			"bar",
+			"food delivery",
+			"catering",
+			"menu",
+			"booking",
+			"events",
+			"offers",
+			"HoReCa website",
+			"restaurant website"
+		],
+		"author": "Horeca",
+		"robots": "index, follow",
+		"image": "/logo.webp",
+		"type": "website",
+		"twitterCard": "summary_large_image"
+	},
+	"pageSeo": {
+		"/": {
+			"title": "Venue menu | Horeca",
+			"description": "Restaurant, cafe, hotel, or delivery menu in the Horeca template: breakfasts, mains, drinks, desserts, and seasonal offers in one digital menu.",
+			"image": "/dish/cappuccino.webp"
+		},
+		"/favorites": {
+			"title": "Favorite dishes | Horeca",
+			"description": "Review selected menu items in the Horeca template and quickly return to favorite dishes.",
+			"keywords": [
+				"favorite dishes",
+				"restaurant menu",
+				"Horeca"
+			],
+			"robots": "noindex, follow",
+			"image": "/dish/homemade-syrnyky-with-sour-cream.webp"
+		},
+		"/rooms": {
+			"title": "Rooms and stays | Horeca",
+			"description": "Rooms and accommodation page for a hotel, aparthotel, or guest house in the Horeca template.",
+			"image": "/room/room-1.webp"
+		},
+		"/navigation": {
+			"title": "Site navigation | Horeca",
+			"description": "Quick access to all main HoReCa website pages.",
+			"robots": "noindex, follow",
+			"image": "/gallery/demo-2.webp"
+		},
+		"/gallery": {
+			"title": "Venue gallery | Horeca",
+			"description": "Photos of the interior, dishes, serving, and atmosphere of a restaurant, cafe, or hotel in the Horeca template.",
+			"image": "/gallery/demo-1.webp"
+		},
+		"/dish": {
+			"title": "Dish page | Horeca",
+			"description": "SEO page for a single dish with description, ingredients, and related menu items in the Horeca template."
+		},
+		"/discounts": {
+			"title": "Discounts and special offers | Horeca",
+			"description": "Show seasonal offers, discounts, combo deals, and special guest terms on the discounts page.",
+			"image": "/gallery/demo-3.webp"
+		},
+		"/loyalty": {
+			"title": "Loyalty program",
+			"description": "A simple loyalty program page for rewards, benefits, loyalty levels, birthday offers, and current program terms.",
+			"image": "/gallery/demo-3.webp"
+		},
+		"/articles": {
+			"title": "News and articles | Horeca",
+			"description": "Publish news, team stories, seasonal menu updates, and useful articles for guests.",
+			"image": "/gallery/demo-2.webp"
+		},
+		"/quests": {
+			"title": "Quests and activities | Horeca",
+			"description": "A dedicated page for quests, entertainment, and themed activities in a venue or hotel.",
+			"image": "/gallery/demo-3.webp"
+		},
+		"/questions": {
+			"title": "Common questions | Horeca",
+			"description": "Answers to common guest questions about booking, opening hours, delivery, menu, events, and stays.",
+			"image": "/gallery/demo-2.webp"
+		},
+		"/rules": {
+			"title": "Venue rules | Horeca",
+			"description": "Guest rules for Horeca: restaurant, hotel, events, safety, booking, and shared spaces on one page.",
+			"image": "/gallery/demo-2.webp"
+		},
+		"/reviews": {
+			"title": "Guest reviews | Horeca",
+			"description": "Collect and show guest reviews, ratings, and social proof for a restaurant, cafe, or hotel.",
+			"image": "/gallery/demo-1.webp"
+		},
+		"/events": {
+			"title": "Events and celebrations | Horeca",
+			"description": "A page for event calendars, banquets, live music, tastings, and private celebrations in a HoReCa venue.",
+			"image": "/gallery/demo-3.webp"
+		},
+		"/products": {
+			"title": "Products and gifts | Horeca",
+			"description": "Present gift sets, merch, farm products, or related goods on a dedicated page.",
+			"image": "/dish/cappuccino.webp"
+		},
+		"/jobs": {
+			"title": "Jobs | Horeca",
+			"description": "A dedicated SEO page for restaurant, cafe, hotel, or delivery service jobs.",
+			"image": "/room/room-2.webp"
+		},
+		"/team": {
+			"title": "Venue team | Horeca",
+			"description": "Introduce guests to the chef, baristas, managers, and service team on the team page.",
+			"image": "/gallery/demo-1.webp"
+		},
+		"/socials": {
+			"title": "Contacts and social networks | Horeca",
+			"description": "Phone, email, address, messengers, and social networks for a HoReCa business on one page.",
+			"image": "/logo.webp"
+		}
+	},
+	"structuredData": {
+		"type": "Restaurant",
+		"priceRange": "$$",
+		"servesCuisine": "HoReCa",
+		"addressLocality": "Kamianets-Podilskyi",
+		"addressCountry": "UA",
+		"sameAs": []
+	}
+}

@@ -1,0 +1,554 @@
+[
+	{
+		"slug": "restaurant-manager",
+		"title": "Restaurant manager",
+		"department": "Management",
+		"summary": "A leadership role responsible for daily restaurant operations, team coordination, service quality, and guest satisfaction.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time",
+		"schedule": "Shift schedule",
+		"salary": "Competitive monthly pay",
+		"experience": "2+ years in hospitality management",
+		"level": "Senior",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Coordinate daily restaurant operations and service flow",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The restaurant manager keeps the service organized from opening to closing. This role connects guests, waiters, kitchen staff, bar staff, and owners into one clear daily workflow.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Lead daily restaurant operations",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "front-desk-receptionist",
+		"title": "Front desk receptionist",
+		"department": "Hotel",
+		"summary": "A guest-facing hotel role focused on check-in, check-out, reservations, calls, and first-contact hospitality.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time",
+		"schedule": "Shift schedule",
+		"salary": "Competitive monthly pay",
+		"experience": "Hospitality experience preferred",
+		"level": "Middle",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Welcome guests and manage check-in and check-out",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The receptionist is often the first person a hotel guest meets. This role shapes the first impression through clear communication, friendly attitude, and organized service.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Manage check-in and check-out",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "waiter",
+		"title": "Waiter",
+		"department": "Restaurant",
+		"summary": "A front-of-house service role focused on welcoming guests, taking orders, serving dishes, and keeping the table experience smooth.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time / Part-time",
+		"schedule": "Shift schedule",
+		"salary": "Hourly pay plus tips",
+		"experience": "Experience preferred, training possible",
+		"level": "Junior / Middle",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Welcome guests and help them choose from the menu",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The waiter supports the main guest experience in the restaurant. Good service depends on timing, attention, polite communication, and teamwork.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Serve guests during breakfast, lunch, or dinner",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "bartender",
+		"title": "Bartender",
+		"department": "Bar",
+		"summary": "A bar role responsible for preparing drinks, keeping the bar organized, supporting service, and creating a friendly guest experience.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time / Part-time",
+		"schedule": "Evening and weekend shifts",
+		"salary": "Hourly pay plus tips",
+		"experience": "1+ year preferred",
+		"level": "Middle",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Prepare alcoholic and non-alcoholic drinks",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The bartender keeps the drink service fast, clean, and consistent. This role supports both guests at the bar and waiters working on the floor.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Prepare cocktails, wine, beer, and soft drinks",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "barista",
+		"title": "Barista",
+		"department": "Cafe",
+		"summary": "A coffee-focused role responsible for preparing espresso drinks, tea, simple desserts, and friendly cafe service.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time / Part-time",
+		"schedule": "Morning and day shifts",
+		"salary": "Hourly pay plus tips",
+		"experience": "Experience preferred, training possible",
+		"level": "Junior / Middle",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Prepare espresso, cappuccino, latte, tea, and seasonal drinks",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The barista creates small daily moments for guests through coffee, tea, desserts, and friendly service.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Prepare coffee and seasonal drinks",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "chef",
+		"title": "Chef",
+		"department": "Kitchen",
+		"summary": "A kitchen role focused on preparing dishes, organizing production, maintaining quality, and supporting daily service.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time",
+		"schedule": "Shift schedule",
+		"salary": "Competitive monthly pay",
+		"experience": "2+ years in kitchen work",
+		"level": "Middle / Senior",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Prepare dishes according to recipes and service standards",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Varied daily tasks"
+		],
+		"body": [
+			"The chef is responsible for consistent food quality during daily service. This includes preparation, cooking, plating, cleanliness, and timing.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Prepare dishes for daily service",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "kitchen-assistant",
+		"title": "Kitchen assistant",
+		"department": "Kitchen",
+		"summary": "A support kitchen role focused on preparation, cleaning, simple tasks, and helping chefs during service.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time / Part-time",
+		"schedule": "Shift schedule",
+		"salary": "Hourly or monthly pay",
+		"experience": "No experience required",
+		"level": "Entry level",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Help with washing, cutting, and basic food preparation",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Good first role in HoReCa",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The kitchen assistant helps the kitchen run smoothly by handling preparation, cleaning, and simple support tasks.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Support chefs with preparation",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "housekeeper",
+		"title": "Housekeeper",
+		"department": "Hotel",
+		"summary": "A hotel cleanliness role focused on room preparation, guest comfort, laundry coordination, and public area care.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time / Part-time",
+		"schedule": "Morning and day shifts",
+		"salary": "Hourly or monthly pay",
+		"experience": "Experience preferred, training possible",
+		"level": "Junior / Middle",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Clean and prepare hotel rooms for guest arrival",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The housekeeper plays a key role in hotel comfort. Clean rooms, fresh linen, and prepared guest spaces are essential for a good stay.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Prepare rooms for guest arrival",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "dishwasher",
+		"title": "Dishwasher",
+		"department": "Kitchen",
+		"summary": "A support role responsible for clean dishes, kitchen tools, and basic hygiene flow during restaurant service.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time / Part-time",
+		"schedule": "Shift schedule",
+		"salary": "Hourly pay",
+		"experience": "No experience required",
+		"level": "Entry level",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Wash dishes, glasses, cutlery, and kitchen tools",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Experience with building maintenance is preferred",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"No experience required",
+			"Varied daily tasks",
+			"Flexible schedule may be available",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The dishwasher keeps the service moving by making sure dishes, glasses, and kitchen tools are clean and ready.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Keep dishes and tools clean",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "event-coordinator",
+		"title": "Event coordinator",
+		"department": "Events",
+		"summary": "A coordination role focused on banquets, birthdays, weddings, group bookings, timing, and guest communication.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time",
+		"schedule": "Flexible event schedule",
+		"salary": "Competitive monthly pay",
+		"experience": "1+ year in events or hospitality",
+		"level": "Middle",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Process event inquiries and prepare basic offers",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The event coordinator helps guests turn an inquiry into a clear event plan. This includes communication, menu details, seating, timing, and coordination with the team.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Coordinate banquets and private events",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "spa-attendant",
+		"title": "Spa attendant",
+		"department": "Spa",
+		"summary": "A wellness area role focused on guest welcome, spa cleanliness, towels, time slots, and calm service flow.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time / Part-time",
+		"schedule": "Shift schedule",
+		"salary": "Hourly or monthly pay",
+		"experience": "Experience preferred, training possible",
+		"level": "Junior / Middle",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Welcome spa guests and explain basic rules",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Flexible schedule may be available",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The spa attendant keeps the wellness area clean, calm, and ready for guests.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Support sauna, hammam, or relax zone guests",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	},
+	{
+		"slug": "maintenance-technician",
+		"title": "Maintenance technician",
+		"department": "Operations",
+		"summary": "A technical support role focused on repairs, equipment checks, lighting, plumbing, furniture, and daily property upkeep.",
+		"location": "Kamianets-Podilskyi",
+		"employmentType": "Full-time / Part-time",
+		"schedule": "Flexible schedule",
+		"salary": "Competitive pay",
+		"experience": "Technical experience required",
+		"level": "Middle",
+		"workFormat": "On-site",
+		"applyUrl": "/socials",
+		"applyLabel": "Contact hiring team",
+		"contactEmail": "",
+		"contactPhone": "",
+		"responsibilities": [
+			"Handle minor repairs around the property",
+			"Check lighting, plumbing, furniture, and equipment",
+			"Respond to urgent maintenance requests",
+			"Support safe operation of hotel, restaurant, and spa areas",
+			"Track repair needs and report larger issues"
+		],
+		"requirements": [
+			"Practical repair and technical skills",
+			"Responsible attitude toward safety",
+			"Ability to react quickly to issues",
+			"Experience with building maintenance is preferred"
+		],
+		"benefits": [
+			"Stable practical work",
+			"Varied daily tasks",
+			"Important role in guest comfort and safety",
+			"Flexible schedule may be available"
+		],
+		"body": [
+			"The maintenance technician helps the business stay safe, functional, and comfortable for guests and staff.",
+			"The role includes small repairs, equipment checks, urgent fixes, and regular property care.",
+			"Good maintenance prevents service interruptions and helps every department work smoothly."
+		],
+		"highlights": [
+			"Support daily property repairs",
+			"Keep guest areas safe and functional",
+			"React to urgent technical issues"
+		]
+	}
+]
