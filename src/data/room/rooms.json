@@ -1,0 +1,26 @@
+[
+	{
+		"slug": "classic-double-room",
+		"name": "Classic double room",
+		"description": "A calm, practical room for two guests with a soft sleeping area, private bathroom, and space to settle in after dinner or travel.",
+		"price": "from UAH 1800/night",
+		"image": "/room/room-1.webp",
+		"imageAlt": "Classic double hotel room with warm lighting",
+		"size": "24 m2",
+		"occupancy": "Up to 2 guests",
+		"bed": "1 queen bed",
+		"bathroom": "Private bathroom",
+		"body": [
+			"This room is designed as a dependable everyday stay for couples, solo travelers, or business guests who want a quiet base near the restaurant.",
+			"Fresh linens, warm lighting, and simple in-room comforts make it easy to unpack, rest, and enjoy the stay at your own pace."
+		],
+		"amenities": [
+			"Breakfast available",
+			"Wi-Fi",
+			"Air conditioning",
+			"Work desk",
+			"Wardrobe",
+			"Room service on request"
+		]
+	}
+]
